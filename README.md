@@ -362,13 +362,3 @@ pip install -r requirements.txt
 - Numbers reported above reflect one run on the full 8,266-review
   dataset; results will vary slightly if the dataset changes.
 
-### Suggested `.gitignore`
-
-```
-images/
-outputs/
-__pycache__/
-*.pyc
-venv/
-rome_colosseum_visitor_reviews_final.csv
-```
